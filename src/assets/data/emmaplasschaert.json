@@ -1,0 +1,379 @@
+{
+  "image_profile": "./assets/emma.jpg",
+  "character": "Emma",
+  "scenarios": {
+    "scenario_1": {
+      "ontvanger": "Emma Plasschaert",
+      "premise": [
+        {
+          "type": "image",
+          "user": "character",
+          "character": "emma",
+          "src": "./assets/scenario-1/selfie.png",
+          "delay": 1000
+        },
+        {
+          "type": "message",
+          "user": "character",
+          "character": "emma",
+          "text": "Laat het zeilen maar komen!! ⛵️💪",
+          "delay": 4000
+        }
+      ],
+      "dialogues": [
+        {
+          "choices": [
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Amai gelukzak en ik maar studeren voor da examen van morgen!",
+              "id": 1
+            },
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Break a leg! 😉 Ma nie te letterlijk eh 😂",
+              "id": 2
+            }
+          ],
+          "replies": [],
+          "outro": []
+        },
+        {
+          "choices": [
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Thx!, Wow studeer je nog naast het zeilen?! 😱😱😱 en waarda?",
+              "id": 6
+            },
+            {
+              "type": "video",
+              "user": "other",
+              "character": "gebruiker",
+              "src": "./assets/scenario-1/video.mp4",
+              "id": 6
+            }
+          ],
+          "replies": [
+            {
+              "type": "image",
+              "user": "character",
+              "character": "emma",
+              "src": "./assets/scenario-1/meme1.jpg",
+              "delay": 1000
+            },
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Tijdens het studeren luister ik altijd naar de Sporza podcast haha, mss is het een tip voor jou? 😀",
+              "delay": 4000
+            },
+            {
+              "type": "link",
+              "user": "character",
+              "character": "emma",
+              "link": "https://sporza.be/nl/sporza-podcast/",
+              "delay": 7000
+            }
+          ],
+          "outro": []
+        },
+        {
+          "choices": [
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Wow! Studeer je nog naast zeilen?",
+              "id": 3
+            }
+          ],
+          "replies": [
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Hahaha 😂",
+              "delay": 1000
+            },
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Seffes les thermodynamica. Echt geen zin in!",
+              "delay": 4000
+            }
+          ],
+          "outro": []
+        },
+        {
+          "choices": [
+            {
+              "type": "image",
+              "user": "other",
+              "character": "gebruiker",
+              "src": "./assets/scenario-1/meme2.jpg",
+              "id": 4
+            },
+            {
+              "type": "image",
+              "user": "other",
+              "character": "gebruiker",
+              "src": "./assets/scenario-1/meme3.jpg",
+              "id": 4
+            },
+            {
+              "type": "image",
+              "user": "other",
+              "character": "gebruiker",
+              "src": "./assets/scenario-1/meme4.jpg",
+              "id": 4
+            }
+          ],
+          "replies": [
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Het is heel moeilijk te combineren maar ik studeer Industrieel Ingenieur aan UGent!",
+              "delay": 1000
+            }
+          ],
+          "outro": []
+        },
+        {
+          "choices": [
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Hopelijk zit de wind wat mee 😉⛵️",
+              "id": 5
+            },
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Je hebt een gouden medaille op het wereld kampioenschap 🥇, dan zal een leske Thermo dynamica ook wel lukken zeker 😝",
+              "id": 5
+            }
+          ],
+          "replies": [
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "😂😂😂",
+              "delay": 1000
+            }
+          ],
+          "outro": []
+        },
+        {
+          "choices": [],
+          "replies": [
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Tot nu toe heeft de wind gelukkig altijd wel meegezeten 💭💭💭💭",
+              "delay": 1000
+            }
+          ],
+          "outro": []
+        },
+        {
+          "choices": [
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Hopelijk zit de wind wat mee 😉⛵️",
+              "id": 5
+            },
+            {
+              "type": "message",
+              "user": "other",
+              "character": "gebruiker",
+              "text": "Je hebt een gouden medaille op het wereld kampioenschap 🥇, dan moet een leske Thermo dynamica ook wel lukken wh 😝",
+              "id": 5
+            }
+          ],
+          "replies": [
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Het is mega moeilijk te combineren eh, maar ik studeer Industriële wetenschappen aan de Universiteit van Gent! 🤓",
+              "delay": 1000
+            },
+            {
+              "type": "message",
+              "user": "character",
+              "character": "emma",
+              "text": "Vandaag Thermodynamica, echt geen zin in!! 🙄",
+              "delay": 4000
+            }
+          ],
+          "outro": []
+        }
+      ]
+    },
+    "scenario_2": {
+      "ontvanger": "Emma Plasschaert",
+      "premise": [
+        {
+          "type": "message",
+          "user": "character",
+          "character": "emma",
+          "text": "Oei sorry... was even verdonken in mijn gedachten",
+          "delay": 1000
+        },
+        {
+          "type": "message",
+          "user": "character",
+          "character": "emma",
+          "text": "Maar sinds je nu meer over mij weet, laten we eens zien of de wind voor jou mee zit 😉. Wil je me eens challengen?",
+          "delay": 4000
+        },
+        {
+          "type": "message",
+          "user": "character",
+          "character": "emma",
+          "text": "Probeer mijn hoogste score te verslaan in deze game challenge!",
+          "delay": 7000
+        },
+        {
+          "type": "game",
+          "user": "character",
+          "character": "emma",
+          "src": "./assets/scenario-1/game_cover_chat.png",
+          "delay": 10000
+        }
+      ]
+    }
+  },
+  "nostalgie": [
+    {
+      "cardType": 1,
+      "cardAlign": -10,
+      "titel": "yachtbelofte\nvan het jaar",
+      "titelAlign": -10,
+      "fontSize": 10,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_1.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_1.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_1.png"
+    },
+    {
+      "cardType": 2,
+      "cardAlign": 30,
+      "titel": "Zilver\nop ek u21",
+      "titelAlign": 55,
+      "fontSize": 12,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_2.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_2.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_2.png"
+    },
+    {
+      "cardType": 3,
+      "cardAlign": -40,
+      "titel": "van 65ste\nnaar 13de",
+      "titelAlign": -45,
+      "titelAlign2": -50,
+      "fontSize": 10,
+      "fontSize2": 6,
+      "tussentitel": "op de wereldranglijst in 1 jaar!",
+      "image": "./assets/scenario-1/nostalgie/image_3.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_3.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_3.png"
+    },
+    {
+      "cardType": 1,
+      "cardAlign": -10,
+      "titel": "over van jeugd \nnaar senioren",
+      "titelAlign": -10,
+      "fontSize": 10,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_4.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_4.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_4.png"
+    },
+    {
+      "cardType": 2,
+      "cardAlign": 30,
+      "titel": "yachtvrouw\nvan het jaar",
+      "titelAlign": 55,
+      "fontSize": 8,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_5.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_5.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_5.png"
+    },
+    {
+      "cardType": 3,
+      "cardAlign": -40,
+      "titel": "tiende op \nhet wk",
+      "titelAlign": -45,
+      "titelAlign2": -45,
+      "fontSize": 10,
+      "fontSize2": 6,
+      "tussentitel": "+ prijs voor beste debutant!",
+      "image": "./assets/scenario-1/nostalgie/image_6.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_6.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_6.png"
+    },
+    {
+      "cardType": 1,
+      "cardAlign": -10,
+      "titel": "zesde plaats op\nwereldranglijst",
+      "titelAlign": -20,
+      "fontSize": 10,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_7.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_7.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_7.png"
+    },
+    {
+      "cardType": 3,
+      "cardAlign": -40,
+      "titel": "wereld\nkampioen",
+      "titelAlign": -45,
+      "titelAlign2": -40,
+      "fontSize": 10,
+      "fontSize2": 6,
+      "tussentitel": "Eerste Belgische zege\nop het WK!",
+      "image": "./assets/scenario-1/nostalgie/image_9.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_9.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_9.png"
+    },
+    {
+      "cardType": 2,
+      "cardAlign": 30,
+      "titel": "Goud op\nworld cup",
+      "titelAlign": 55,
+      "fontSize": 12,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_8.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_8.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_8.png"
+    },
+    {
+      "cardType": 1,
+      "cardAlign": -10,
+      "titel": "geplaatst voor\nolympische spelen",
+      "titelAlign": -10,
+      "fontSize": 10,
+      "tussentitel": "",
+      "image": "./assets/scenario-1/nostalgie/image_10.png",
+      "texture1": "./assets/scenario-1/nostalgie/texture_10.png",
+      "texture2": "./assets/scenario-1/nostalgie/texture2_10.png"
+    }
+  ]
+}

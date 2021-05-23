@@ -1,0 +1,6 @@
+{
+  "extends": "devine",
+  "globals": {
+    "Phaser": true
+  }
+}

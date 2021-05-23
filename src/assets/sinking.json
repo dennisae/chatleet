@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "sinking.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 980,
+				"h": 190
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					}
+				},
+				{
+					"filename": "002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					},
+					"frame": {
+						"x": 196,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					}
+				},
+				{
+					"filename": "003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					},
+					"frame": {
+						"x": 392,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					}
+				},
+				{
+					"filename": "004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					},
+					"frame": {
+						"x": 588,
+						"y": 0,
+						"w": 196,
+						"h": 190
+					}
+				},
+				{
+					"filename": "005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 188
+					},
+					"frame": {
+						"x": 784,
+						"y": 0,
+						"w": 189,
+						"h": 188
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1bcec2da57c3fd732f395bdc7b9cb8a6:911e6dd57c01fa7c48a112d436dd18da:3243fb62dbea3ca1bad0aa1d6f6d3d00$"
+	}
+}

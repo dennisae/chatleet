@@ -1,0 +1,14 @@
+:root {
+  --color-black: #181818;
+  --color-white: white;
+  --color-lightgray: #383838;
+  --color-darkgray: #272727;
+  --color-green: #84ff00;
+  --weight-regular: 400;
+}
+
+/*retina dus aantal pixels delen door 2*/
+@custom-media --xs screen and (min-width: 0);
+@custom-media --sm screen and (min-width: 24em); /*md = 768px / 2 = 384px / 16 = 24em */
+@custom-media --md screen and (min-width: 45em); /*lg = 1440px / 2 = 720px / 16 = 45em */
+@custom-media --xl screen and (min-width: 78.75em);

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "boat.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 764,
+				"h": 781
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 781
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					}
+				},
+				{
+					"filename": "002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 781
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					},
+					"frame": {
+						"x": 191,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					}
+				},
+				{
+					"filename": "003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 781
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					},
+					"frame": {
+						"x": 382,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					}
+				},
+				{
+					"filename": "004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 781
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					},
+					"frame": {
+						"x": 573,
+						"y": 0,
+						"w": 191,
+						"h": 781
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d7e126683ca074fd9c4cf876661a2ee5:7ee268e7ea9f7843af0106fd24b3cc11:a33bb37bf4e811bd5c14c699da942315$"
+	}
+}

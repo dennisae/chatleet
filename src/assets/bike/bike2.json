@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "bike1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1224,
+				"h": 1072
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Enemy1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 612,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 612,
+						"h": 536
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 612,
+						"h": 536
+					}
+				},
+				{
+					"filename": "Enemy2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 612,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 612,
+						"h": 536
+					},
+					"frame": {
+						"x": 612,
+						"y": 0,
+						"w": 612,
+						"h": 536
+					}
+				},
+				{
+					"filename": "Enemy3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 612,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 612,
+						"h": 536
+					},
+					"frame": {
+						"x": 0,
+						"y": 536,
+						"w": 612,
+						"h": 536
+					}
+				},
+				{
+					"filename": "Enemy4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 612,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 612,
+						"h": 536
+					},
+					"frame": {
+						"x": 612,
+						"y": 536,
+						"w": 612,
+						"h": 536
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:29b663956861b82c245b3aaacae3d643:129a04efa72f91daf835dc887f43c126:ac8115d5ef984fb3eb54432475d8d3e1$"
+	}
+}
